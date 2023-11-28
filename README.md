@@ -31,4 +31,4 @@ No additional installation is required, as the script uses standard Python libra
 This project is open for contributions. Please ensure your pull requests are concise and clear.
 
 ## License
-[MIT License](LICENSE.txt)
+[MIT License](LICENSE)
